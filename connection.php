@@ -1,8 +1,8 @@
 <?php 
 $host = "localhost";
 $username = "root";
-$password = "r12072001n";
-$database = "MTWEB";
+$password = "";
+$database = "nama-database";
 
 $connect = mysqli_connect($host, $username, $password, $database);
 
